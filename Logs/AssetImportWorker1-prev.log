@@ -1,0 +1,625 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'tr' Physical Memory: 16297 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/UGG/Desktop/Match Blast/Match Blast
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+59159
+Successfully changed project path to: C:/Users/UGG/Desktop/Match Blast/Match Blast
+C:/Users/UGG/Desktop/Match Blast/Match Blast
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/UGG/Desktop/Match Blast/Match Blast/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8151 MB
+    Driver:   27.20.21003.8013
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002004 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002919 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.709 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1324 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1769.
+Total: 1.579900 ms (FindLiveObjects: 0.202200 ms CreateObjectMapping: 0.036500 ms MarkObjects: 1.279200 ms  DeleteObjects: 0.060400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Game/Levels/LevelData_0.cs
+  artifactKey: Guid(b75f97754b4d14f94b83cced7ed4d67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Levels/LevelData_0.cs using Guid(b75f97754b4d14f94b83cced7ed4d67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c372d8377781b0e84b76c5398e851e27') in 0.032529 seconds
+  Import took 0.040176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.656464 seconds.
+  path: Assets/Scripts/Game/Mechanics/FallAnimation.cs
+  artifactKey: Guid(6a5d140e0f086431089dab109b3aefbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Mechanics/FallAnimation.cs using Guid(6a5d140e0f086431089dab109b3aefbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ac21e7d6d5a64e9d5ffe8db82f8791') in 0.002605 seconds
+  Import took 0.006804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022785 seconds.
+  path: Assets/Scripts/Game/Mechanics/FallAnimation.cs
+  artifactKey: Guid(6a5d140e0f086431089dab109b3aefbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Mechanics/FallAnimation.cs using Guid(6a5d140e0f086431089dab109b3aefbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ac21e7d6d5a64e9d5ffe8db82f8791') in 0.002398 seconds
+  Import took 0.006318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.791024 seconds.
+  path: Assets/Scripts/Game/Core/Level/Level.cs
+  artifactKey: Guid(1db858d6876714a59856fa3c689a1b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/Level.cs using Guid(1db858d6876714a59856fa3c689a1b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc601be48777a813d207d8c571171417') in 0.003652 seconds
+  Import took 0.010816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003787 seconds.
+  path: Assets/Scripts/Game/Core/Level/Level.cs
+  artifactKey: Guid(1db858d6876714a59856fa3c689a1b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/Level.cs using Guid(1db858d6876714a59856fa3c689a1b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc601be48777a813d207d8c571171417') in 0.003768 seconds
+  Import took 0.010499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.983196 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb33d0f9a1c6643a03fc545f08115ee8') in 0.003456 seconds
+  Import took 0.009946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001852 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb33d0f9a1c6643a03fc545f08115ee8') in 0.004066 seconds
+  Import took 0.012663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.789872 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7421d9d6b3c81a5b05bbe0b911709e0') in 0.006171 seconds
+  Import took 0.010206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.045427 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3284c55a82bff6668078fd0c73f1e0e0') in 0.004876 seconds
+  Import took 0.010231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044800 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3284c55a82bff6668078fd0c73f1e0e0') in 0.004149 seconds
+  Import took 0.009432 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002775 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.695 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1772.
+Total: 1.867800 ms (FindLiveObjects: 0.229400 ms CreateObjectMapping: 0.044200 ms MarkObjects: 1.540700 ms  DeleteObjects: 0.051500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 106.979358 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8be397254746348855626a8b9a238f1') in 0.047066 seconds
+  Import took 0.052754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062713 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8be397254746348855626a8b9a238f1') in 0.004694 seconds
+  Import took 0.012601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.414517 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd45c96e4ae7074eb68df717491edac') in 0.004134 seconds
+  Import took 0.009825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.359412 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aba21fb41847a3e3b445c2ded9d2f19') in 0.006016 seconds
+  Import took 0.011314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040569 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aba21fb41847a3e3b445c2ded9d2f19') in 0.003476 seconds
+  Import took 0.012648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.822475 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c778accff885485b3fbebc226d4f86') in 0.005644 seconds
+  Import took 0.011275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050547 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c778accff885485b3fbebc226d4f86') in 0.003440 seconds
+  Import took 0.010448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.434114 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c240d5ad2ad6452a535413a463f443dd') in 0.058062 seconds
+  Import took 0.065339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005741 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c240d5ad2ad6452a535413a463f443dd') in 0.004387 seconds
+  Import took 0.013055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.634869 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44783d62cd770573ba827a1809b8b341') in 0.005938 seconds
+  Import took 0.023554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.442776 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44783d62cd770573ba827a1809b8b341') in 0.004011 seconds
+  Import took 0.010415 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002895 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.705 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1775.
+Total: 1.500200 ms (FindLiveObjects: 0.148600 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.270300 ms  DeleteObjects: 0.051600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002595 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.687 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1778.
+Total: 1.680800 ms (FindLiveObjects: 0.201300 ms CreateObjectMapping: 0.034300 ms MarkObjects: 1.399000 ms  DeleteObjects: 0.044500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 18.252179 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29b65138bd3af463faf763d08879eb5') in 0.005856 seconds
+  Import took 0.011070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061248 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29b65138bd3af463faf763d08879eb5') in 0.003228 seconds
+  Import took 0.008583 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.708 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1781.
+Total: 2.078200 ms (FindLiveObjects: 0.271000 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.691000 ms  DeleteObjects: 0.072300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.687 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1784.
+Total: 1.604400 ms (FindLiveObjects: 0.140200 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.386800 ms  DeleteObjects: 0.044000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 133.424200 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222e7b520c89c5805979257d46b8ff06') in 0.007813 seconds
+  Import took 0.013304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075553 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222e7b520c89c5805979257d46b8ff06') in 0.003243 seconds
+  Import took 0.008646 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1787.
+Total: 1.595500 ms (FindLiveObjects: 0.198800 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.307200 ms  DeleteObjects: 0.055200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 13.168900 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3118773f3aa0083c691194f57362be') in 0.007988 seconds
+  Import took 0.013410 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1790.
+Total: 1.476000 ms (FindLiveObjects: 0.150900 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.250900 ms  DeleteObjects: 0.044000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.718 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1793.
+Total: 1.707900 ms (FindLiveObjects: 0.159200 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.459600 ms  DeleteObjects: 0.057000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 40.233854 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65fdae187bf5ad46aad9287325b2b30') in 0.006919 seconds
+  Import took 0.011201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001471 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65fdae187bf5ad46aad9287325b2b30') in 0.002377 seconds
+  Import took 0.006415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.429208 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fedb08970ebf2661d4a4cfae93d66f') in 0.057437 seconds
+  Import took 0.530358 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.700 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1796.
+Total: 1.437300 ms (FindLiveObjects: 0.151800 ms CreateObjectMapping: 0.031500 ms MarkObjects: 1.214700 ms  DeleteObjects: 0.038200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002607 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1799.
+Total: 1.421000 ms (FindLiveObjects: 0.148000 ms CreateObjectMapping: 0.027800 ms MarkObjects: 1.199200 ms  DeleteObjects: 0.044600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 29.146081 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae55e28f1a236441413508ddb60d4d0') in 0.008230 seconds
+  Import took 0.023510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.521040 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d56b64fee3338b28e7436b4aff5cfa5') in 0.008251 seconds
+  Import took 0.013695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058146 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d56b64fee3338b28e7436b4aff5cfa5') in 0.004356 seconds
+  Import took 0.009863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.023747 seconds.
+  path: Assets/Scripts/Game/Core/Level/LevelData.cs
+  artifactKey: Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Game/Core/Level/LevelData.cs using Guid(1c228c0eace1a48b796ce67e28fe1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb08da908a7efa519f827ec498de074') in 0.004162 seconds
+  Import took 0.009778 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002872 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1309 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 63.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1802.
+Total: 1.803900 ms (FindLiveObjects: 0.168200 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.545500 ms  DeleteObjects: 0.059800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
